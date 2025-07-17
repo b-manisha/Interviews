@@ -30,9 +30,10 @@ A high-level report with KPIs across channels:
 - Conversion from leads: **only 0.14%**
 - Funnel drop-off occurs after lead stage
 
-🖼️ _**(Insert KPI trend chart or funnel graphic here)**_
+🖼️ _**Funnel**_
 
----
+---<img width="906" height="387" alt="Screenshot 2025-07-17 at 8 17 06 AM" src="https://github.com/user-attachments/assets/aea24315-f51d-4324-aa36-55702eb0d3ef" />
+
 
 ### 2️⃣ Assessment of Marketing Effectiveness
 
@@ -48,9 +49,10 @@ A breakdown of channel efficiency revealed:
 
 > **April Conversion Drop:** Notable decrease in conversions across nearly all channels, despite stable traffic and lead volume.
 
-🖼️ _**(Insert bar chart: Channel vs Lead-to-Sale rate)**_
+🖼️ _**Channel vs Lead-to-Sale rate**_
 
----
+---<img width="312" height="389" alt="Screenshot 2025-07-17 at 8 17 54 AM" src="https://github.com/user-attachments/assets/9ca440cc-5c3a-4800-94a6-f4dcef191133" />
+
 
 ### 3️⃣ CFO Budget Proposal — June 2025
 
@@ -61,15 +63,16 @@ Acquire **1,155 leads at €91 CPL**
 - Optimize spend toward channels with a balance of **volume** and **lead quality**
 - Reduce or restructure spend on low-efficiency channels
 
-🖼️ _**(Insert pie chart or table: June Budget by Channel)**_
+🖼️ _**June Budget by Channel**_
 
----
+---<img width="752" height="506" alt="Screenshot 2025-07-17 at 8 19 04 AM" src="https://github.com/user-attachments/assets/94f49a59-854f-4a15-9288-f0091a025b67" />
+
 
 ## 🛠️ Tools & Methods
 
 - 📋 **Excel** — Data aggregation & pivot tables  
 - 📈 **PowerPoint** — Presentation & visualization  
-- 🧮 Manual KPI calculation & logic-driven optimization  
+- 🧮 **Tableau** - KPI Calculation and Logic 
 
 ---
 
