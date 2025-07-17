@@ -9,7 +9,7 @@
 
 ## 🧠 Overview
 
-This project was developed as part of a case study interview for a marketing strategy role. The task included analyzing multi-channel marketing data, evaluating performance, identifying inefficiencies, and proposing a revised budget for June 2025.
+This project was developed as part of a case study interview for a Senior Marketing Data Analyst role. The task included analyzing multi-channel marketing data, evaluating performance, identifying inefficiencies and proposing a revised budget for June 2025.
 
 ---
 
